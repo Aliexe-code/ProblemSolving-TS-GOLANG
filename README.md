@@ -7,6 +7,7 @@ This repository contains solutions to various coding problems, written in TypeSc
 1. Install dependencies:
    ```bash
    npm install
+   npm jest
    ```
 
 ## Problems
