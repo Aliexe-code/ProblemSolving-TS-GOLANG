@@ -10,7 +10,7 @@ This repository contains solutions to various coding problems, written in TypeSc
    npm test
 
 
-   Problems
+Problems
 Problem 1: Contains Duplicates
 Description: Write a function containsDuplicates that checks if an array contains duplicate elements.
 Solution: src/problems/problem-1.ts
