@@ -13,6 +13,7 @@ This repository contains solutions to various coding problems, written in TypeSc
 Problems
 
 ##Problem 1: Contains Duplicates
+
 Description: Write a function containsDuplicates that checks if an array contains duplicate elements.
 
 
@@ -22,6 +23,7 @@ Tests: tests/problem-1.test.ts
 
 
 ##Problem 2: Valid Anagram
+
 Description: Write a function isAnagram that checks if two strings are anagrams of each other.
 
 
