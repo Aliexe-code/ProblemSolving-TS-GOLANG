@@ -32,8 +32,8 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://Aliexe-code/PS-UT-Typescript.git
+   cd PS-UT-Typescript
    bun install
 running tests
    ```bash
