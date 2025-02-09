@@ -1,4 +1,4 @@
-import { totalCandies } from '../src/Problems/Problem-4';
+import { totalCandies } from '../src/Problems/P4';
 describe('totalCandies', () => {
     it('should return 6 for N = 3', () => {
       expect(totalCandies(3)).toBe(6);

@@ -1,4 +1,4 @@
-import {calculateAccommodationFee} from '../src/Problems/Problem-5';
+import {calculateAccommodationFee} from '../src/Problems/P5';
 
 describe('calculateAccommodationFee', () => {
     it('should return the correct fee when N is less than or equal to K', () => {
@@ -7,7 +7,7 @@ describe('calculateAccommodationFee', () => {
       const X = 10000;
       const Y = 9000;
       const result = calculateAccommodationFee(N, K, X, Y);
-      expect(result).toBe(3 * 10000); // All nights are charged at X yen
+      expect(result).toBe(3 * 10000); // All n
     });
   
     it('should return the correct fee when N is greater than K', () => {

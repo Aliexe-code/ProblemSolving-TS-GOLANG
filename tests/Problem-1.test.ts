@@ -1,4 +1,4 @@
-import { containsDuplicates } from '../src/Problems/Problem-1';
+import { containsDuplicates } from '../src/Problems/P1';
 
 describe('containsDuplicates', () => {
   test('returns true for an array with duplicates', () => {

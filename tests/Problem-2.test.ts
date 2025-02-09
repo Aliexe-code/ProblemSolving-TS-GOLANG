@@ -1,4 +1,4 @@
-import { isAnagram } from '../src/Problems/Problem-2';
+import { isAnagram } from '../src/Problems/P2';
 describe('isAnagram', () => {
     it('should return true when both strings are anagrams', () => {
       expect(isAnagram('anagram', 'nagaram')).toBe(true);
