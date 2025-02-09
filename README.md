@@ -6,11 +6,21 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 ## 🧠 Problems Solved
 
-| Problem Name                     | Difficulty | Solution File                     | Test File                         |
-|----------------------------------|------------|-----------------------------------|-----------------------------------|
-| [Iroha's Obsession](#irohas-obsession) | Medium     | [IrohasObsession.ts](./src/Problems/IrohasObsession.ts) | [IrohasObsession.test.ts](./tests/IrohasObsession.test.ts) |
-| [Iroha Loves Strings](#iroha-loves-strings) | Easy       | [IrohaLovesStrings.ts](./src/Problems/IrohaLovesStrings.ts) | [IrohaLovesStrings.test.ts](./tests/IrohaLovesStrings.test.ts) |
-| [Contains Duplicate](#contains-duplicate) | Easy       | [ContainsDuplicate.ts](./src/Problems/ContainsDuplicate.ts) | [ContainsDuplicate.test.ts](./tests/ContainsDuplicate.test.ts) |
+### [Contains Duplicate](./Problems/containsDuplicate.ts)
+- **Test File**: [containsDuplicate.test.ts](./tests/containsDuplicate.test.ts)
+- **Description**: Checks if an array contains duplicate elements.
+
+### [Valid Anagram](./Problems/validAnagram.ts)
+- **Test File**: [validAnagram.test.ts](./tests/validAnagram.test.ts)
+- **Description**: Determines if two strings are valid anagrams of each other.
+
+### [Iroha & Haiku](./Problems/Iroha/Iroha&Haiku.ts)
+- **Test File**: [Iroha&Haiku.test.ts](./tests/Iroha&Haiku.test.ts)
+- **Description**: A problem related to Iroha and Haiku (add description here).
+
+### [Iroha Loves Strings](./Problems/Iroha/IrohaLovesStrings.ts)
+- **Test File**: [IrohaLovesStrings.test.ts](./tests/IrohaLovesStrings.test.ts)
+- **Description**: Finds the lexicographically smallest string by concatenating given strings.
 
 ---
 
@@ -20,9 +30,4 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-   bun install
-   bun test
-   bun test 'Path-to-file'
-   bun run lint
-   bun run format
    
