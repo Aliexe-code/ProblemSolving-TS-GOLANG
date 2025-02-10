@@ -29,6 +29,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [childrenAndCandies.ts](./Problems/childrenAndCandies.ts)
 - **Test File**: [childrenAndCandies.test.ts](./tests/childrenAndCandies.test.ts)
 
+### Tak And Hotels
+- **Solution File**: [TakAndHotels.ts](./Problems/TakAndHotels.ts)
+- **Test File**: [TakAndHotels.test.ts](./tests/TakAndHotels.test.ts)
+
+
 ---
 
 ## 🛠️ Setup
