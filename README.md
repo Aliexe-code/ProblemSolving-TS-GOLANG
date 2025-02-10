@@ -25,7 +25,8 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [IrohaLovesStrings.ts](./Problems/Iroha/IrohaLovesStrings.ts)
 - **Test File**: [IrohaLovesStrings.test.ts](./tests/IrohaLovesStrings.test.ts)
 
-
+### Children And Candies
+- **Solution File**: [childrenAndCandies.ts](./Problems/childrenAndCandies.ts)
 ---
 
 ## 🛠️ Setup
