@@ -43,7 +43,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
    git clone https://Aliexe-code/PS-UT-Typescript.git
    cd PS-UT-Typescript
    bun install
-running tests
+2. **Running files
+```bash
+   bun run 'path-to-file'
+```
+3.running tests
    ```bash
     bun test
     bun test tests/'path-to-file'
