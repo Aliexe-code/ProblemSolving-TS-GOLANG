@@ -27,6 +27,8 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 ### Children And Candies
 - **Solution File**: [childrenAndCandies.ts](./Problems/childrenAndCandies.ts)
+- - **Test File**: [childrenAndCandies.test.ts](./tests/childrenAndCAndies.test.ts)
+
 ---
 
 ## 🛠️ Setup
