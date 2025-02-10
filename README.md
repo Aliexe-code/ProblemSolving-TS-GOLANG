@@ -1,4 +1,4 @@
-# Problem Solving with TypeScript 🚀
+# Problem Solving with TypeScript
 
 Welcome to my problem-solving repository! This is a collection of solutions to various algorithmic and coding challenges, implemented in **TypeScript**. Each problem is thoroughly tested and optimized for performance.
 
