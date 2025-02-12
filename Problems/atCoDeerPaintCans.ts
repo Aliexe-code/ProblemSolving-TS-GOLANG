@@ -1,5 +1,3 @@
-//https://atcoder.jp/contests/abc046/tasks/abc046_a
-
 export function atCoderPaintCans (a:number,b:number,c:number):number{
    if(a<=0 || b<=0 || c<=0) return 0
     const input = [a,b,c]
