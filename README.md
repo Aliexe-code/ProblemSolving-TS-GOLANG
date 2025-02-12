@@ -13,6 +13,7 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 
 ### Valid Anagram
+- **Link**: https://leetcode.com/problems/valid-anagram/description/
 - **Solution File**: [validAnagram.ts](./Problems/validAnagram.ts)
 - **Test File**: [validAnagram.test.ts](./tests/validAnagram.test.ts)
 
