@@ -1,10 +1,10 @@
 # Problem Solving with TypeScript
 
-Welcome to my problem-solving repository! This is a collection of solutions to various algorithmic and coding challenges, implemented in **TypeScript**. Each problem is thoroughly tested and optimized for performance.
+Welcome to my problem-solving repository! This is a collection of solutions to various algorithmic and coding challenges, implemented in **TypeScript**. Each problem is thoroughly tested and optimized for performance (built-in bun tests)
 
 ---
 
-## 🧠 Problems Solved
+## Problems Solved
 
 ### Contains Duplicate
 - **Link**: https://leetcode.com/problems/contains-duplicate
