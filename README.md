@@ -55,6 +55,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Test File**: [fightOverCandies.test.ts
 ](./tests/fightOverCandies.test.ts)
 
+### AtCoder *** Contest
+- **Link**: https://atcoder.jp/contests/abc048/tasks/abc048_a
+- **Solution File**: [atCoder***Contest.ts](./Problems/atCoder***Contest.ts)
+- **Test File**: [atCoder***Contest.test.ts](./tests/atCoder***Contest.test.ts)
+
 
 ---
 
