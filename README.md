@@ -19,23 +19,23 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 
 ### Iroha & Haiku
-- **Link**: https://leetcode.com/problems/valid-anagram/description/
+- **Link**: https://atcoder.jp/contests/abc042/tasks/abc042_a
 - **Solution File**: [Iroha&Haiku.ts](./Problems/Iroha/Iroha&Haiku.ts)
 - **Test File**: [Iroha&Haiku.test.ts](./tests/Iroha&Haiku.test.ts)
 
 
 ### Iroha Loves Strings
-- **Link**: https://leetcode.com/problems/valid-anagram/description/
+- **Link**: https://atcoder.jp/contests/abc042/tasks/abc042_b
 - **Solution File**: [IrohaLovesStrings.ts](./Problems/Iroha/IrohaLovesStrings.ts)
 - **Test File**: [IrohaLovesStrings.test.ts](./tests/IrohaLovesStrings.test.ts)
 
 ### Children And Candies
-- **Link**: https://leetcode.com/problems/valid-anagram/description/
+- **Link**: https://atcoder.jp/contests/abc043/tasks/abc043_a
 - **Solution File**: [childrenAndCandies.ts](./Problems/childrenAndCandies.ts)
 - **Test File**: [childrenAndCandies.test.ts](./tests/childrenAndCandies.test.ts)
 
 ### Tak And Hotels
-- **Link**: https://leetcode.com/problems/valid-anagram/description/
+- **Link**: https://atcoder.jp/contests/abc044/tasks/abc044_a
 - **Solution File**: [TakAndHotels.ts](./Problems/TakAndHotels.ts)
 - **Test File**: [TakAndHotels.test.ts](./tests/TakAndHotels.test.ts)
 
