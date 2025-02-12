@@ -39,6 +39,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [TakAndHotels.ts](./Problems/TakAndHotels.ts)
 - **Test File**: [TakAndHotels.test.ts](./tests/TakAndHotels.test.ts)
 
+### Trapezoids
+- **Link**: https://atcoder.jp/contests/abc045/tasks/abc045_a
+- **Solution File**: [trapezoids.ts](./Problems/trapezoids.ts)
+- **Test File**: [trapezoids.test.ts](./tests/trapezoids.test.ts)
+
 
 ---
 
