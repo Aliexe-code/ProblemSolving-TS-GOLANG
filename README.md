@@ -7,7 +7,7 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 ## 🧠 Problems Solved
 
 ### Contains Duplicate
--**Link**: (https://leetcode.com/problems/contains-duplicate)
+- **Link**: https://leetcode.com/problems/contains-duplicate
 - **Solution File**: [containsDuplicate.ts](./Problems/containsDuplicate.ts)
 - **Test File**: [containsDuplicate.test.ts](./tests/containsDuplicate.test.ts)
 
