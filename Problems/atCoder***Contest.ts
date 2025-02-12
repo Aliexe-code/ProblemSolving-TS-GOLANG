@@ -1,0 +1,9 @@
+//https://atcoder.jp/contests/abc048/tasks/abc048_a
+
+export function abbreviateContestName (s:string):string{
+    if(s.length===0) return '';
+    const middleLetter = s[0].toUpperCase()
+    return `A${middleLetter}C`
+}
+
+console.log(abbreviateContestName('wash'))
