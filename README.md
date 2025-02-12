@@ -49,6 +49,12 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [atCoDeerPaintCans.ts](./Problems/atCoDeerPaintCans.ts)
 - **Test File**: [atCoDeerPaintCans.test.ts](./tests/atCoDeerPaintCans.test.ts)
 
+### Fighting over Candies
+- **Link**: https://atcoder.jp/contests/abc047/tasks/abc047_a
+- **Solution File**: [fightOverCandies.ts](./Problems/fightOverCandies.ts)
+- **Test File**: [fightOverCandies.test.ts
+](./tests/fightOverCandies.test.ts)
+
 
 ---
 
