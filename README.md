@@ -19,19 +19,23 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 
 ### Iroha & Haiku
+- **Link**: https://leetcode.com/problems/valid-anagram/description/
 - **Solution File**: [Iroha&Haiku.ts](./Problems/Iroha/Iroha&Haiku.ts)
 - **Test File**: [Iroha&Haiku.test.ts](./tests/Iroha&Haiku.test.ts)
 
 
 ### Iroha Loves Strings
+- **Link**: https://leetcode.com/problems/valid-anagram/description/
 - **Solution File**: [IrohaLovesStrings.ts](./Problems/Iroha/IrohaLovesStrings.ts)
 - **Test File**: [IrohaLovesStrings.test.ts](./tests/IrohaLovesStrings.test.ts)
 
 ### Children And Candies
+- **Link**: https://leetcode.com/problems/valid-anagram/description/
 - **Solution File**: [childrenAndCandies.ts](./Problems/childrenAndCandies.ts)
 - **Test File**: [childrenAndCandies.test.ts](./tests/childrenAndCandies.test.ts)
 
 ### Tak And Hotels
+- **Link**: https://leetcode.com/problems/valid-anagram/description/
 - **Solution File**: [TakAndHotels.ts](./Problems/TakAndHotels.ts)
 - **Test File**: [TakAndHotels.test.ts](./tests/TakAndHotels.test.ts)
 
