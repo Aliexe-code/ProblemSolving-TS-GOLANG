@@ -44,6 +44,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [trapezoids.ts](./Problems/trapezoids.ts)
 - **Test File**: [trapezoids.test.ts](./tests/trapezoids.test.ts)
 
+### AtCoDeer and Paint Cans
+- **Link**: https://atcoder.jp/contests/abc046/tasks/abc046_a
+- **Solution File**: [atCoDeerPaintCans.ts](./Problems/atCoDeerPaintCans.ts)
+- **Test File**: [atCoDeerPaintCans.test.ts](./tests/atCoDeerPaintCans.test.ts)
+
 
 ---
 
