@@ -1,11 +1,11 @@
-import { test, expect, describe } from "bun:test";
-import { calculateArea } from '../Problems/trapezoids';
+import { test, expect, describe } from 'bun:test';
+import { calculateArea } from '../Problems/7-trapezoids';
 
 describe('calculateArea', () => {
   test('should return the correct area for valid integer inputs', () => {
-    expect(calculateArea(3, 4, 2)).toBe(7);   
-    expect(calculateArea(4, 4, 4)).toBe(16);  
-    expect(calculateArea(1, 1, 2)).toBe(2);   
+    expect(calculateArea(3, 4, 2)).toBe(7);
+    expect(calculateArea(4, 4, 4)).toBe(16);
+    expect(calculateArea(1, 1, 2)).toBe(2);
   });
 
   test('should return 0 for non-positive inputs', () => {
