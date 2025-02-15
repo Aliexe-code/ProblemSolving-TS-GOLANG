@@ -70,6 +70,10 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P012.Add&SubEasy.ts](./Problems/P012.Add&SubEasy.ts)
 - **Test File**: [T012.Add&SubEasy.test.ts](./tests/T012.Add&SubEasy.test.ts)
 
+### 013.Haiku
+- **Link**: https://atcoder.jp/contests/abc051/tasks/abc051_a
+- **Solution File**: [P013.Haiku.ts](./Problems/P013.Haiku.ts)
+- **Test File**: [T013.Haiku.test.ts](./tests/T013.Haiku.test.ts)
 
 ---
 
