@@ -1,5 +1,5 @@
 import { test, describe, expect } from 'bun:test';
-import { atCoderPaintCans } from '../Problems/8-atCoDeerPaintCans';
+import { atCoderPaintCans } from '../Problems/P008.atCoDeerPaintCans';
 
 describe('atCoderPaintCans', () => {
   test('valid inputs', () => {

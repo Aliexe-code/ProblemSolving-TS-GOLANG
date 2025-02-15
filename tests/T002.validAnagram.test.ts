@@ -1,5 +1,5 @@
 import { expect, test, describe } from 'bun:test';
-import { isAnagram } from '../Problems/2-validAnagram';
+import { isAnagram } from '../Problems/P002.validAnagram';
 
 describe('isAnagram', () => {
   test('if isAnagram return true', () => {

@@ -1,5 +1,5 @@
 import { test, expect, describe } from 'bun:test';
-import { UOIAUAI } from '../Problems/11-UOIAUAI';
+import { UOIAUAI } from '../Problems/P011.UOIAUAI';
 
 describe('check vowel or consonant', () => {
   test('should return "vowel" ', () => {

@@ -1,5 +1,5 @@
 import { test, expect, describe } from 'bun:test';
-import { totalFee } from '../Problems/6-TakAndHotels';
+import { totalFee } from '../Problems/P006.TakAndHotels';
 
 describe('totalFee', () => {
   test('valid params', () => {

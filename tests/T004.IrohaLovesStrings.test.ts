@@ -1,5 +1,5 @@
 import { test, describe, expect } from 'bun:test';
-import { IrohaLovesStrings } from '../Problems/4-IrohaLovesStrings';
+import { IrohaLovesStrings } from '../Problems/P004.IrohaLovesStrings';
 
 describe('IrohaLovesStrings', () => {
   test('IrohaLovesStrings', () => {

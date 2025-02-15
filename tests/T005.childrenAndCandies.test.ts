@@ -1,5 +1,5 @@
 import { test, expect, describe } from 'bun:test';
-import { totalCandies } from '../Problems/5-childrenAndCandies';
+import { totalCandies } from '../Problems/P005.childrenAndCandies';
 
 describe('totalCandies', () => {
   test('if totalCandies has valid N', () => {

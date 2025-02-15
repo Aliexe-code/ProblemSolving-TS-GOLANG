@@ -1,5 +1,5 @@
 import { test, expect, describe } from 'bun:test';
-import { irohaHaiku } from '../Problems/3-Iroha&Haiku';
+import { irohaHaiku } from '../Problems/P003.Iroha&Haiku';
 
 describe('irohaHaiku', () => {
   test('if irohaHaiku return YES', () => {

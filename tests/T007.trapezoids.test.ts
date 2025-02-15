@@ -1,5 +1,5 @@
 import { test, expect, describe } from 'bun:test';
-import { calculateArea } from '../Problems/7-trapezoids';
+import { calculateArea } from '../Problems/P007.trapezoids';
 
 describe('calculateArea', () => {
   test('should return the correct area for valid integer inputs', () => {

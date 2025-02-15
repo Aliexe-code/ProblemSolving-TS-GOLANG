@@ -1,5 +1,5 @@
 import { test, describe, expect } from 'bun:test';
-import { fightOverCandies } from '../Problems/9-fightOverCandies';
+import { fightOverCandies } from '../Problems/P009.fightOverCandies';
 
 describe('fightOverCandies function', () => {
   test('should return "YES" when two packs sum up to the third', () => {

@@ -1,5 +1,5 @@
 import { Test, describe, expect, test } from 'bun:test';
-import { containsDuplicate } from '../Problems/1-containsDuplicate';
+import { containsDuplicate } from '../Problems/P001.containsDuplicate';
 
 describe('containsDuplicates', () => {
   test('return false for unique values', () => {
