@@ -61,7 +61,7 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Test File**: [atCoder***Contest.test.ts](./tests/atCoder***Contest.test.ts)
 
 ### 011.UOIAUAI
-- **Link**: https://atcoder.jp/contests/abc048/tasks/abc048_a
+- **Link**: https://atcoder.jp/contests/abc049/tasks/abc049_a
 - **Solution File**: [atCoder***Contest.ts](./Problems/P011.UOIAUAI.ts)
 - **Test File**: [atCoder***Contest.test.ts](./tests/atCoder***Contest.test.ts)
 
