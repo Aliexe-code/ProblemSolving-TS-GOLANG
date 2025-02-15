@@ -65,6 +65,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P011.UOIAUAI.ts](./Problems/P011.UOIAUAI.ts)
 - **Test File**: [T011.atCoder***Contest.test.ts](./tests/T011.UOIAUAI.test.ts)
 
+### 012.Add And Sub Easy
+- **Link**: https://atcoder.jp/contests/abc050/tasks/abc050_a
+- **Solution File**: [P012.Add&SubEasy.ts](./Problems/P012.Add&SubEasy.ts)
+- **Test File**: [T012.Add&SubEasy.test.ts](./tests/T012.Add&SubEasy.test.ts)
+
 
 ---
 
