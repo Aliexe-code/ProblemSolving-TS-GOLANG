@@ -75,6 +75,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P013.Haiku.ts](./Problems/P013.Haiku.ts)
 - **Test File**: [T013.Haiku.test.ts](./tests/T013.Haiku.test.ts)
 
+### 014.Two Rectangles
+- **Link**: https://atcoder.jp/contests/abc052/tasks/abc052_a
+- **Solution File**: [P014.twoRectangles.ts](./Problems/P014.twoRectangles.ts)
+- **Test File**: [T014.twoRectangles.test.ts](./tests/T014.twoRectangles.test.ts)
+
 ---
 
 ## 🛠️ Setup
