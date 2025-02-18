@@ -80,6 +80,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P014.twoRectangles.ts](./Problems/P014.twoRectangles.ts)
 - **Test File**: [T014.twoRectangles.test.ts](./tests/T014.twoRectangles.test.ts)
 
+### 015.Two Rectangles
+- **Link**: https://atcoder.jp/contests/abc054/tasks/abc054_a
+- **Solution File**: [P015.oneCardPoker.ts](./Problems/P015.oneCardPoker.ts)
+- **Test File**: [T015.oneCardPoker.test.ts](./tests/T015.oneCardPoker.test.ts)
+
 ---
 
 ## 🛠️ Setup
