@@ -85,6 +85,15 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P015.oneCardPoker.ts](./Problems/P015.oneCardPoker.ts)
 - **Test File**: [T015.oneCardPoker.test.ts](./tests/T015.oneCardPoker.test.ts)
 
+### 016.Restaurant
+- **Link**: https://atcoder.jp/contests/abc055/tasks/abc055_a
+- **Solution File**: [P016.restaurant.ts](./Problems/P016.restaurant.ts)
+- **Test File**: [T016.restaurant.test.ts](./tests/T016.restaurant.test.ts)
+
+### 017.Restaurant
+- **Link**: https://atcoder.jp/contests/abc056/tasks/abc056_a
+- **Solution File**: [P017.honestDishonest.ts](./Problems/P017.honestDishonest.ts)
+- **Test File**: [T017.honestDishonest.test.ts](./tests/T017.honestDishonest.test.ts)
 ---
 
 ## 🛠️ Setup
