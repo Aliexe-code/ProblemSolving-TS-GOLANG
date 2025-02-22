@@ -94,6 +94,21 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Link**: https://atcoder.jp/contests/abc056/tasks/abc056_a
 - **Solution File**: [P017.honestDishonest.ts](./Problems/P017.honestDishonest.ts)
 - **Test File**: [T017.honestDishonest.test.ts](./tests/T017.honestDishonest.test.ts)
+
+### 018.Restaurant
+- **Link**: https://atcoder.jp/contests/abc058/tasks/abc058_a
+- **Solution File**: [P018.ι⊥l.ts](./Problems/P018.ι⊥l.ts)
+- **Test File**: [T018.ι⊥l.test.ts](./tests/T018.ι⊥l.test.ts)
+
+### 019.Three-letter acronym
+- **Link**: https://atcoder.jp/contests/abc059/tasks/abc059_a
+- **Solution File**: [P019.threeAcronym.ts](./Problems/P019.threeAcronym.ts)
+- **Test File**: [T019.threeAcronym.test.ts](./tests/T019.threeAcronym.test.ts)
+
+### 020.Three-letter acronym
+- **Link**: https://atcoder.jp/contests/abc062/tasks/abc062_a
+- **Solution File**: [P020.grouping.ts](./Problems/P020.grouping.ts)
+- **Test File**: [T020.grouping.test.ts](./tests/T020.grouping.test.ts)
 ---
 
 ## 🛠️ Setup
