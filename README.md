@@ -143,6 +143,13 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 
 - **Link**: https://leetcode.com/problems/two-sum/
 - **Solution File**: [P023.twoSums.ts](./Problems/P023.twoSums.ts)
+- **Test File**: [T023.twoSums.test.ts
+  ](./tests/T023.twoSums.test.ts)
+
+### 023.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+- **Link**: https://leetcode.com/problems/two-sum/
+- **Solution File**: [P023.twoSums.ts](./Problems/P023.twoSums.ts)
 - **Test File**: [T023.twoSums.test.ts](./tests/T023.twoSums.test.ts)
 
 ---
