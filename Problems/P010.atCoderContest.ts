@@ -4,4 +4,3 @@ export function abbreviateContestName (s:string):string{
     return `A${middleLetter}C`
 }
 
-console.log(abbreviateContestName('wash'))
