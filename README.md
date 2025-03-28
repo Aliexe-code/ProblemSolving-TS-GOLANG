@@ -146,11 +146,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Test File**: [T023.twoSums.test.ts
   ](./tests/T023.twoSums.test.ts)
 
-### 023.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+### 024.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
-- **Link**: https://leetcode.com/problems/two-sum/
-- **Solution File**: [P023.twoSums.ts](./Problems/P023.twoSums.ts)
-- **Test File**: [T023.twoSums.test.ts](./tests/T023.twoSums.test.ts)
+- **Link**: https://leetcode.com/problems/add-two-numbers/description/
+- **Solution File**: [P024.addTwoNums.ts](./Problems/P024.addTwoNums.ts)
+- **Test File**: [T024.addTwoNums.test.ts](./tests/T024.addTwoNums.test.ts)
 
 ---
 
