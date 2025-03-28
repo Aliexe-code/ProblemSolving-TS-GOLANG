@@ -1,5 +1,5 @@
 import { test, expect, describe } from 'bun:test';
-import { abbreviateContestName } from '../Problems/P010.atCoder___Contest.js';
+import { abbreviateContestName } from '../Problems/P010.atCoderContest.js';
 
 describe('abbreviateContestName', () => {
   test('should handle normal cases with proper capitalization', () => {
