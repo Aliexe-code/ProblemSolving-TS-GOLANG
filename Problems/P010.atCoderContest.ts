@@ -3,5 +3,3 @@ export function abbreviateContestName(s: string): string {
   const middleLetter = s[0].toUpperCase();
   return `A${middleLetter}C`;
 }
-
-console.log(abbreviateContestName('wash'));

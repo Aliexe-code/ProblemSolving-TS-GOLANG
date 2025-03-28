@@ -61,17 +61,29 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Test File**: [T009.fightOverCandies.test.ts
   ](./tests/T009.fightOverCandies.test.ts)
 
+<<<<<<< HEAD
 ### 010.AtCoder \*\*\* Contest
 
 - **Link**: https://atcoder.jp/contests/abc048/tasks/abc048_a
 - **Solution File**: [P010.atCoder\*\*\*Contest.ts](./Problems/P010.atCoder***Contest.ts)
 - **Test File**: [T010.atCoder\*\*\*Contest.test.ts](./tests/T010.atCoder***Contest.test.ts)
+=======
+### 010.AtCoder *** Contest
+
+- **Link**: https://atcoder.jp/contests/abc048/tasks/abc048_a
+- **Solution File**: [P010.atCoder***Contest.ts](./Problems/P010.atCoder***Contest.ts)
+- **Test File**: [T010.atCoder***Contest.test.ts](./tests/T010.atCoder***Contest.test.ts)
+>>>>>>> dd27689aa63438aa9d32d497ce1d220ec7fde30a
 
 ### 011.UOIAUAI
 
 - **Link**: https://atcoder.jp/contests/abc049/tasks/abc049_a
 - **Solution File**: [P011.UOIAUAI.ts](./Problems/P011.UOIAUAI.ts)
+<<<<<<< HEAD
 - **Test File**: [T011.atCoder\*\*\*Contest.test.ts](./tests/T011.UOIAUAI.test.ts)
+=======
+- **Test File**: [T011.atCoder***Contest.test.ts](./tests/T011.UOIAUAI.test.ts)
+>>>>>>> dd27689aa63438aa9d32d497ce1d220ec7fde30a
 
 ### 012.Add And Sub Easy
 
@@ -127,18 +139,27 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P020.grouping.ts](./Problems/P020.grouping.ts)
 - **Test File**: [T020.grouping.test.ts](./tests/T020.grouping.test.ts)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd27689aa63438aa9d32d497ce1d220ec7fde30a
 ### 021.Product
 
 - **Link**: https://atcoder.jp/contests/abc086/tasks/abc086_a
 - **Solution File**: [P021.product.ts](./Problems/P021.product.ts)
 - **Test File**: [T021.product.test.ts](./tests/T021.product.test.ts)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd27689aa63438aa9d32d497ce1d220ec7fde30a
 ### 022.Buying Sweets
 
 - **Link**: https://atcoder.jp/contests/abc087/tasks/abc087_a
 - **Solution File**: [P022.buyingsweets.ts](./Problems/P022.buyingsweets.ts)
 - **Test File**: [T022.buyingsweets.test.ts](./tests/T022.buyingsweets.test.ts)
 
+<<<<<<< HEAD
 ### 023.Two Sum
 
 - **Link**: https://leetcode.com/problems/two-sum/
@@ -152,6 +173,8 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P024.addTwoNums.ts](./Problems/P024.addTwoNums.ts)
 - **Test File**: [T024.addTwoNums.test.ts](./tests/T024.addTwoNums.test.ts)
 
+=======
+>>>>>>> dd27689aa63438aa9d32d497ce1d220ec7fde30a
 ---
 
 ## 🛠️ Setup
