@@ -1,15 +1,18 @@
 {
-    "compilerOptions": {
-      "target": "ES2022",
-      "module": "NodeNext",
-      "moduleResolution": "NodeNext",
-      "strict": true,
-      "esModuleInterop": true,
-      "types": ["bun-types"],
-      "baseUrl": ".",
-      "paths": {
-        "@/*": ["./src/*"]
-      }
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "types": ["bun-types"],
+    "baseUrl": ".",
+    "paths": {
+      "Problems/*": ["Problems/*"],
+      "@/*": ["src/*"]
     },
-    "include": ["src/**/*", "tests/**/*"]
-  }
+    "noEmit": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": ["**/*.ts"]
+}
