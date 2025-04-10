@@ -166,6 +166,12 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P025.reverseWords.ts](./Problems/P025.reverseWords.ts)
 - **Test File**: [T025.reverseWords.test.ts](./tests/T025.reverseWords.test.ts)
 
+### 026.[Isograms]
+
+- **Link**: https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/typescript
+- **Solution File**: [P026.Isograms.ts](./Problems/P026.Isograms.ts)
+- **Test File**: [T026.Isograms.test.ts](./tests/T026.Isograms.test.ts)
+
 ## 🛠️ Setup
 
 1. **Clone the repository**:

@@ -1,5 +1,5 @@
 import { test, describe, expect } from "bun:test";
-import { reverseWords } from '../Problems/P025.reverseWords.js'
+import { reverseWords } from '../Problems/P025.reverseWords'
 
 describe('reverseWords 25', () => {
     test('simple word', () => {
