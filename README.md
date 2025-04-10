@@ -171,6 +171,11 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Link**: https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/typescript
 - **Solution File**: [P026.Isograms.ts](./Problems/P026.Isograms.ts)
 - **Test File**: [T026.Isograms.test.ts](./tests/T026.Isograms.test.ts)
+  
+### 027.[Vowel Count]
+[ https: https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/typescript
+- **Solution File**: [P027.VowelCount.ts](./Problems/P027.VowelCount.ts)
+- **Test File**: [T027.VowelCount.test.ts](./tests/T027.VowelCount.test.ts)
 
 ## 🛠️ Setup
 
