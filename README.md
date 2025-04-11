@@ -173,6 +173,12 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Link**: <https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true>
 - **Solution File**: [P028.GradingStudents.ts](./Problems/P028.GradingStudents.ts)
 - **Test File**: [T028.GradingStudents.test.ts](./tests/T028.GradingStudents.test.ts)
+  
+  ### 029.[Roman to Integer]
+
+- **Link**: <https://leetcode.com/problems/roman-to-integer/description/>
+- **Solution File**: [P029.RomantoInteger.ts](./Problems/P029.RomantoInteger.ts)
+- **Test File**: [T02.RomantoInteger.test.ts](./tests/T029.RomantoInteger.test.ts)
 
 ## 🛠️ Setup
 
