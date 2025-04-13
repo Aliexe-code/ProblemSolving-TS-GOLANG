@@ -12,7 +12,7 @@ export function isAnagram(s:string,t:string):boolean{
 }
 
 /**
- * charCounts = [0......0] 26
+ * charCounts = [0......0] n=26
  * s (+) => [1,0,1,1,1.....]
  * t (-) => [-1,0,-1,-1,-1.....]
  * charCounts = [0......0] => is Anagram if every value is 0 then it is Anagram.

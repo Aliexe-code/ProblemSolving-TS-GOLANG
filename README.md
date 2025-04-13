@@ -174,11 +174,30 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P028.GradingStudents.ts](./Problems/P028.GradingStudents.ts)
 - **Test File**: [T028.GradingStudents.test.ts](./tests/T028.GradingStudents.test.ts)
   
-  ### 029.[Roman to Integer]
+### 029.[Roman to Integer]
 
 - **Link**: <https://leetcode.com/problems/roman-to-integer/description/>
 - **Solution File**: [P029.RomantoInteger.ts](./Problems/P029.RomantoInteger.ts)
-- **Test File**: [T02.RomantoInteger.test.ts](./tests/T029.RomantoInteger.test.ts)
+- **Test File**: [T029.RomantoInteger.test.ts](./tests/T029.RomantoInteger.test.ts)
+
+### 030.[Odd or Even]
+
+- **Link**: <https://www.codewars.com/kata/5949481f86420f59480000e7/train/typescript>
+- **Solution File**: [P030.OddEven.ts](./Problems/P030.OddEven.ts)
+- **Test File**: [T030.OddEven.test.ts](./tests/T030.OddEven.test.ts)
+
+### 031.[Sum of Two Smallest Numbers]
+
+- **Link**: <https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/typescript>
+- **Solution File**: [P031.SumOTLPI.ts](./Problems/P031.SumOTLPI.ts)
+- **Test File**: [T031.SumOTLPI.test.ts](./tests/T031.SumOTLPI.test.ts)
+
+### 032.[Pile of Cubes]
+
+- **Link**: <https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/typescript>
+- **Solution File**: [P032.pileofCubes.ts](./Problems/P032.pileofCubes.ts)
+- **Test File**: [T032.pileofCubes.test.ts](./tests/T032.pileofCubes.test.ts)
+
 
 ## 🛠️ Setup
 
