@@ -198,6 +198,18 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P032.pileofCubes.ts](./Problems/P032.pileofCubes.ts)
 - **Test File**: [T032.pileofCubes.test.ts](./tests/T032.pileofCubes.test.ts)
 
+### 033.[Persistent Bugger]
+
+- **Link**: <https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/typescript>
+- **Solution File**: [P033.PersistentBugger.ts](./Problems/P033.PersistentBugger.ts)
+- **Test File**: [T033.PersistentBugger.test.ts](./tests/T033.PersistentBugger.test.ts)
+
+### 034.[Find the missing letter]
+
+- **Link**: <https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/typescript>
+- **Solution File**: [P034.Findthemissingletter.ts](./Problems/P034.Findthemissingletter.ts)
+- **Test File**: [T034.Findthemissingletter.test.ts](./tests/T034.Findthemissingletter.test.ts)
+
 
 ## 🛠️ Setup
 
