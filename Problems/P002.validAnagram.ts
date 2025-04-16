@@ -1,14 +1,13 @@
-export function isAnagram(s:string,t:string):boolean{
-    if (s.length !== t.length) return false;
+export function isAnagram(s: string, t: string): boolean {
+  if (s.length !== t.length) return false;
 
-    const charCounts = new Array(26).fill(0);
-    const aCode = 'a'.charCodeAt(0)
-    for(let i=0 ; i<s.length ; i++){
-        charCounts[s.charCodeAt(i)-aCode]++;
-        charCounts[t.charCodeAt(i)-aCode]--;
-    }
-    return charCounts.every(v => v === 0)
-
+  const charCounts = new Array(26).fill(0);
+  const aCode = 'a'.charCodeAt(0);
+  for (let i = 0; i < s.length; i++) {
+    charCounts[s.charCodeAt(i) - aCode]++;
+    charCounts[t.charCodeAt(i) - aCode]--;
+  }
+  return charCounts.every((v) => v === 0);
 }
 
 /**

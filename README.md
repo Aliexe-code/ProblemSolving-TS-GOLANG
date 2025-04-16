@@ -60,7 +60,7 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P009.fightOverCandies.ts](./Problems/P009.fightOverCandies.ts)
 - **Test File**: [T009.fightOverCandies.test.ts](./tests/T009.fightOverCandies.test.ts)
 
-### 010.AtCoder___Contest
+### 010.AtCoder\_\_\_Contest
 
 - **Link**: <https://atcoder.jp/contests/abc048/tasks/abc048_a>
 - **Solution File**: [P010.atCoderContest.ts](./Problems/P010.atCoderContest.ts)
@@ -173,7 +173,7 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Link**: <https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true>
 - **Solution File**: [P028.GradingStudents.ts](./Problems/P028.GradingStudents.ts)
 - **Test File**: [T028.GradingStudents.test.ts](./tests/T028.GradingStudents.test.ts)
-  
+
 ### 029.[Roman to Integer]
 
 - **Link**: <https://leetcode.com/problems/roman-to-integer/description/>
@@ -210,15 +210,20 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P034.Findthemissingletter.ts](./Problems/P034.Findthemissingletter.ts)
 - **Test File**: [T034.Findthemissingletter.test.ts](./tests/T034.Findthemissingletter.test.ts)
 
+### 035.[Apple and Orange]
+
+- **Link**: <https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true>
+- **Solution File**: [P035.AppleandOrange.ts](./Problems/P035.AppleandOrange.ts)
+- **Test File**: [T035.AppleandOrange.test.ts](./tests/T035.AppleandOrange.test.ts)
 
 ## 🛠️ Setup
 
 1. **Clone the repository**:
-          ```bash
-   git clone <https://Aliexe-code/PS-UT-Typescript.git>
-   cd PS-UT-Typescript
-   bun install
-        ```
+   `bash
+git clone <https://Aliexe-code/PS-UT-Typescript.git>
+cd PS-UT-Typescript
+bun install
+     `
 2. **Running files**
 
 ```bash
