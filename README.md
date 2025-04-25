@@ -216,6 +216,24 @@ Welcome to my problem-solving repository! This is a collection of solutions to v
 - **Solution File**: [P035.AppleandOrange.ts](./Problems/P035.AppleandOrange.ts)
 - **Test File**: [T035.AppleandOrange.test.ts](./tests/T035.AppleandOrange.test.ts)
 
+### 036.[Find the odd int]
+
+- **Link**: <https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript>
+- **Solution File**: [P036.Findtheoddint.ts](./Problems/P036.Findtheoddint.ts)
+- **Test File**: [T036.Findtheoddint.test.ts](./tests/T036.Findtheoddint.test.ts)
+
+### 037.[Which are in?]
+
+- **Link**: <https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript>
+- **Solution File**: [P037.Whicharein.ts](./Problems/P037.Whicharein.ts)
+- **Test File**: [T037.Whicharein.test.ts](./tests/T037.Whicharein.test.ts)
+
+### 038.[Equal Sides Of An Array]
+
+- **Link**: <https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/typescript>
+- **Solution File**: [P038.EqualSidesOfAnArray.ts](./Problems/P038.EqualSidesOfAnArray.ts)
+- **Test File**: [T038.EqualSidesOfAnArray.test.ts](./tests/T038.EqualSidesOfAnArray.test.ts)
+
 ## 🛠️ Setup
 
 1. **Clone the repository**:
