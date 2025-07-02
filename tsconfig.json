@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "types": ["bun-types"],
+    "baseUrl": ".",
+    "paths": {
+      "Problems/*": ["Problems/*"],
+      "@/*": ["src/*"]
+    },
+    "noEmit": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": ["**/*.ts", "!**/*.test.ts"]
+}
